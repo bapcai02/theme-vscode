@@ -1,0 +1,28 @@
+{
+    "name": "bapcai",
+    "displayName": "dvhaTheme",
+    "description": "dvhaTheme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "publisher": "bapcai",
+    "repository": "https://github.com/bapcai02/theme-vscode",
+    "galleryBanner": {
+        "color": "#13111d",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "name": "dvhaTheme",
+                "label": "dvhaTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dvhaTheme-color-theme.json"
+            }
+        ]
+    }
+}
