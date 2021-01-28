@@ -18,7 +18,6 @@
 
 		// Editor
 		"editor.background": "#1B1929",
-		"editor.foreground": "#f73bf722",
 		"editor.lineHighlightBackground": "#8076C222",
 		"editorCursor.foreground": "#988de4",
 
@@ -701,5 +700,6 @@
 				"foreground": "#EEFFFF"
 			}
 		}
-	]
+	],
+
 }
