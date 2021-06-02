@@ -2,10 +2,6 @@
 	"name": "dvhaTheme",
 	"type": "dark",
 	"colors": {
-		// WindowBorder
-		"window.activeBorder" : "#8076C2",
-		"window.inactiveBorder" : "#ff0000",
-
 		//dropdown
 		"dropdown.background": "#1B1929",
 		"dropdown.listBackground": "#8076C2",
@@ -81,6 +77,9 @@
 		"input.foreground": "#e6c3c3",
 
 		"debugToolBar.background": "#27243b",
+
+		// Minamap
+		"minimap.selectionHighlight": "#dd8f19",
 	},
 	"tokenColors": [
 		{
@@ -101,7 +100,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#ffff"
 			}
 		},
 		{
