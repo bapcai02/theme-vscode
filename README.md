@@ -6,7 +6,7 @@
 ## Introduction
 
 <p align="center">
-  <img src="screenshot/app.png" />
+  <img src="screenshot/app.PNG" />
 </p>
 
 ## How to use?
@@ -21,5 +21,5 @@ search 'dvha-Theme'
 click install
 
  <p align="center">
-  <img src="screenshot/theme.png" />
+  <img src="screenshot/theme.PNG" />
 </p>
